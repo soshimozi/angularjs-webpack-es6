@@ -5,8 +5,6 @@ yarn install
 yarn start
 ```
 
----
-
 ## Production Build
 
 ```
